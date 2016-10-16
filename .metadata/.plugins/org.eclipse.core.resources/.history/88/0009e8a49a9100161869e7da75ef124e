@@ -1,0 +1,5 @@
+package com.vaadin;
+
+public class Application {
+
+}
